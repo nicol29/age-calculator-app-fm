@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/age-calculator-app-fm/static/css/main.e47834be.css",
+    "main.js": "/age-calculator-app-fm/static/js/main.394c320a.js",
+    "static/js/787.1715cc32.chunk.js": "/age-calculator-app-fm/static/js/787.1715cc32.chunk.js",
+    "index.html": "/age-calculator-app-fm/index.html",
+    "main.e47834be.css.map": "/age-calculator-app-fm/static/css/main.e47834be.css.map",
+    "main.394c320a.js.map": "/age-calculator-app-fm/static/js/main.394c320a.js.map",
+    "787.1715cc32.chunk.js.map": "/age-calculator-app-fm/static/js/787.1715cc32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e47834be.css",
+    "static/js/main.394c320a.js"
+  ]
+}
